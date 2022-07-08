@@ -1,4 +1,21 @@
 # Butterfly Data: Change in Wing Proportions Over Time
+
+# Data 332 Final Project
+
+This repository contains two data analysis reports on butterfly and ladybug datasets. The projects align with the following project guidelines:
+1. Keep data integrity to show the RAW data vs CLEANED data
+2. Explanation of the data cleanup necessary
+3. Must create a visual for example mean, median, max, min
+4. Each analysis must use techniques used in class including pivot tables, statistics, charts over time, and charts that show different outcomes within the data
+5. Each chart must have a unique write up about why you chose and think that the data shown is valuable information
+6. Minimum 3 charts per project
+7. Each project needs a T test performed
+8. R script must be documented with comments
+9. ReadMe file with attached images will be needed
+10. Documentation is needed through Github
+
+Please follow the links above to view a particular report. 
+
 ## Introduction
 The butterly data set contains information concerning observtions on the Pieris rapae butterly. Measurements of various propotions are included as well as the year those observations were made for each specific sample. This analysis examines change in wing proportions (length, width, and apex size) over time. This report will also supply information concerning statistics about the data as a whole, as well as steps taken to clean the data. The proportions analyzed in this report are limited to wing length, wing width, and black patch apex, which excludes all other feature data included in the sataset.
 
