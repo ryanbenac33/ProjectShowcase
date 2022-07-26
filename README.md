@@ -2,7 +2,9 @@
 I graduated from Augustana College in 2022 Magna Cum Laude with my Bachelor of Arts. I double majored in Data Anlaytics and Computer Science with a minor in Geology. Before college I worked various jobs in retail and customer service. Through college, I worked as a Computer Science Tutor and Geology Lab Proctor. I also worked for Sedona Technologies as an IT Helpdesk Intern. After graduation, I started with the US Army Corps of Engineers as a Computer Scientist in the Geotech branch. I continue to work there to this day. 
 
 **Programming Languages**: Python, Java, R, SQL, MATLAB, C, HTML & CSS, JavaScript
+
 **Certifications**: USACE SUAS Drone Pilot, PADI OW Diver, CPR & First Aid
+
 **Awards**: Dean's List (2018-2022), as-Khazarmi Society Member
 
 # Project Showcase
