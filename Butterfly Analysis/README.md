@@ -1,6 +1,6 @@
 # Butterfly Data: Change in Wing Proportions Over Time
 
-# Data 332: Systems Analysis and Design Final Project
+# Data 332 Final Project
 
 This repository contains two data analysis reports on butterfly and ladybug datasets. The projects align with the following project guidelines:
 1. Keep data integrity to show the RAW data vs CLEANED data
