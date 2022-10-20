@@ -7,7 +7,7 @@ I graduated from Augustana College in 2022 Magna Cum Laude with my Bachelor of A
 
 **Awards**: Dean's List (2018-2022), as-Khazarmi Society Member
 
-**Notable Software**: ArcGIS Pro, Microsoft Suite (most notably Excel with VBA/macro capabilites), Google Suite, Tableau, PowerBI, ContextCapture, Pix4D, RStudio (with many packages including Shiny), Visual Studio, Github, 
+**Notable Software**: ArcGIS Pro, Microsoft Suite (most notably Excel with VBA/macro capabilites), Google Suite, Tableau, PowerBI, ContextCapture, Pix4D, RStudio (with many packages including Shiny), Visual Studio, Github
 
 # Project Showcase
 This page contains examples and results from various projects I have worked on. All of the examples were completed from 2018 to now either as a class or research project at Augustana College, or they were completed through personal interest. In each folder you will find a README.md file that explains the project scope and file contents. I continue to work on many similar projects for the US Army Corps of Engineers, and I will be happy to explain upon inquiry. Below are short descriptions of the projects included: 
