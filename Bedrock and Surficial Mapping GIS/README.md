@@ -24,12 +24,10 @@ The newest addition to this region can be found in the western portion of the ma
 
 Remote mapping and data collection is not as accurate as mapping in the field. Those who do remote mapping are limited to the data, resources, and technologies that are available to them. This may limit what they can map and how accurately they can do so. The LiDAR data available in the Hebgen Lake region of Montana was quite helpful because it was the most accurate representation of what the topography truly looked like. The only downside to this is LiDAR requires the proper technology to access and store the massive data sets as well as needing to have the data set to begin with. GIS was helpful in organizing and visualizing the data available to best map these regions remotely. 
 
+![Bedrock Map](JPG/final_bedrock.jpg)
 Figure 1. Bedrock Map and Cross Section: Frying Pan Gulch
 Note: A link is attached above for better resolution and downloading.
 
-![Bedrock Map](JPG/final_bedrock.jpg)
-
+![Surficial Map](JPG/final_surficial.jpg)
 Figure 2. Surficial Map: Hebgen Lake
 Note: A link is attached above for better resolution and downloading.
-
-![Surficial Map](JPG/final_surficial.jpg)
