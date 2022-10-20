@@ -27,13 +27,9 @@ Remote mapping and data collection is not as accurate as mapping in the field. T
 Figure 1. Bedrock Map and Cross Section: Frying Pan Gulch
 Note: A link is attached above for better resolution and downloading.
 
-<object data="https://github.com/ryanbenac33/ProjectShowcase/raw/main/Bedrock%20and%20Surficial%20Mapping%20GIS/final_bedrock.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/ryanbenac33/ProjectShowcase/raw/main/Bedrock%20and%20Surficial%20Mapping%20GIS/final_bedrock.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ryanbenac33/ProjectShowcase/raw/main/Bedrock%20and%20Surficial%20Mapping%20GIS/final_bedrock.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![Bedrock Map](JPG/final_bedrock.jpg)
 
 Figure 2. Surficial Map: Hebgen Lake
 Note: A link is attached above for better resolution and downloading.
 
-![Surficial Map](final_surficial.pdf)
+![Surficial Map](JPG/final_surficial.jpg)
