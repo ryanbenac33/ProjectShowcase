@@ -1,6 +1,5 @@
 # Butterfly Data: Change in Wing Proportions Over Time
-
-# Data 332 Final Project
+Completed: May 2022
 
 This repository contains a data analysis report on a butterfly dataset. The project aligns with the following project guidelines:
 1. Keep data integrity to show the RAW data vs CLEANED data
