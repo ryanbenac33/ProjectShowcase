@@ -20,7 +20,10 @@ This page contains examples and results from various projects I have worked on. 
 6. **Benac Knickpoint Formation**: Reaseach project and paper completed in fulfillment of a Geology minor. 
 7. **Benac et. al. Recent Trend in Software Development: Low-Code Solutions**: Published paper concerning the prevalence and increase of Low Code software development solutions. Presented at the Future Technoogies Conference in 2021. 
 8. **Thompson et. al., NFTrig**: Published paper exploring the utilization of NFT and blockchain technology for mathematic education.
+
 # Other Repositories
-https://github.com/MVR-GIS/Panama_Infographic
+https://github.com/MVR-GIS/Panama_Infographic : Given a large dataset of salinity measurements taken during a full lockage at Agua Clara Lock in the Panama Canal, we utilized several R packages to read through the data and create an SVG based data-driven CSS keyframe animation.
+
+
 
 Contact: benacryan1+github@gmail.com
