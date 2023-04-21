@@ -20,4 +20,7 @@ This page contains examples and results from various projects I have worked on. 
 6. **Benac Knickpoint Formation**: Reaseach project and paper completed in fulfillment of a Geology minor. 
 7. **Benac et. al. Recent Trend in Software Development: Low-Code Solutions**: Published paper concerning the prevalence and increase of Low Code software development solutions. Presented at the Future Technoogies Conference in 2021. 
 
+# Other Repositories
+https://github.com/MVR-GIS/Panama_Infographic
+
 Contact: benacryan1+github@gmail.com
