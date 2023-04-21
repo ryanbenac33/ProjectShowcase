@@ -19,7 +19,7 @@ This page contains examples and results from various projects I have worked on. 
 5. **Transaction Data Analysis & Modeling**: Data Analytics Senior Inquiry. Given a scrubbed transaction dataset for one account at Augustana College, an in depth analysis and data understanding was completed. Further, hand coded rules were employed to predict whether each transaction was normal or abnormal. All analysis and modeling completed in Excel, Tableau, and Python scripts. 
 6. **Benac Knickpoint Formation**: Reaseach project and paper completed in fulfillment of a Geology minor. 
 7. **Benac et. al. Recent Trend in Software Development: Low-Code Solutions**: Published paper concerning the prevalence and increase of Low Code software development solutions. Presented at the Future Technoogies Conference in 2021. 
-
+8. **Thompson et. al., NFTrig**: Published paper exploring the utilization of NFT and blockchain technology for mathematic education.
 # Other Repositories
 https://github.com/MVR-GIS/Panama_Infographic
 
