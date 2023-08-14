@@ -7,10 +7,10 @@ I graduated from Augustana College in 2022 Magna Cum Laude with my Bachelor of A
 
 **Awards**: Dean's List (2018-2022), Al-Khazarmi Society Member
 
-**Notable Software Experience**: ArcGIS Pro, Microsoft Suite, Google Suite, Tableau, PowerBI, Qlik Sense, ContextCapture, Pix4D, RStudio, Visual Studio, Github/Sourcetree
+**Notable Software Experience**: ArcGIS Pro, Microsoft Suite, Google Suite, Tableau, PowerBI, Qlik Sense, ContextCapture, Pix4D, RStudio, VS Code, Github/Sourcetree
 
 # Project Showcase
-This page contains examples and results from various projects I have worked on. All of the examples were completed from 2018 to now either as a class or research project at Augustana College, or they were completed through personal interest. In each folder you will find a README.md file that explains the project scope and file contents. I continue to work on many similar projects for the US Army Corps of Engineers, and I will be happy to explain my current endeavors upon inquiry. Below are short descriptions of the projects included: 
+This page contains examples and results from various projects I have worked on. All of the examples were completed from 2018 to current either as part of a class, research project at Augustana College, personal interest, or related project with the U.S. Army Corps of Engineers. In each folder you will find a README.md file that explains the project scope and file contents. I continue to work on many similar projects for USACE whose project data is not hosted in this repo, and I will be happy to explain my current endeavors upon inquiry. Below are short descriptions of the projects included: 
 
 1. **Bedrock & Surficial Mapping GIS**: Bedrock mapping includes manual identificaiton of bedrock units using ArcGIS Pro. Included are map, cross section, and explanation of rock units. Surficial mapping includes manual identification of surficial deposits and erosion using LiDAR data in ArcGIS Pro. 
 2. **Big 5 Personality Analysis & Modeling**: Analysis of personalities from a Big 5 Personality dataset to predict a personality given answeres to survey questions. Analysis and modeling completed through Python notebooks and PowerBI. 
@@ -22,10 +22,9 @@ This page contains examples and results from various projects I have worked on. 
 8. **Thompson et. al., NFTrig**: Published paper exploring the utilization of NFT and blockchain technology for mathematic education.
 
 # Other Repositories
-https://github.com/MVR-GIS/Panama_Infographic: Given a large dataset of salinity measurements taken during a full lockage at Agua Clara Lock in the Panama Canal, we utilized several R packages to read through the data and create an SVG based data-driven CSS keyframe animation.
+[Koop-Provider-OpenGround](https://github.com/ryanbenac33/koop-provider-OpenGround) - 2023: API data provider and GIS translation for OpenGround Cloud geotechnical boring data to be accessed in ESRI GIS viewers. This solution acts as a middleware live connection between APIs which creates a more efficient workflow and culmination of data in one accessible location.
 
-https://github.com/ryanbenac33/koop-provider-OpenGround: API data provider and GIS translation for OpenGround boring data to be accessed in ESRI GIS viewers. This solution creates a live connection between APIs and creates a more efficient workflow and culmination of data in one accessible location.
-
+[Panama Canal Infographic](https://github.com/MVR-GIS/Panama_Infographic) - 2023: Given a large dataset of salinity measurements taken during a full lockage at Agua Clara Lock in the Panama Canal, we utilized several R packages to read through the data and create an SVG based data-driven CSS keyframe animation.
 
 
 Contact: benacryan1+github@gmail.com
