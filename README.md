@@ -24,6 +24,8 @@ This page contains examples and results from various projects I have worked on. 
 # Other Repositories
 [Koop-Provider-OpenGround](https://github.com/ryanbenac33/koop-provider-OpenGround) - 2023: API data provider and GIS translation for OpenGround Cloud geotechnical boring data to be accessed in ESRI GIS viewers. This solution acts as a middleware live connection between APIs which creates a more efficient workflow and culmination of data in one accessible location.
 
+[Koop-Output-Table](https://github.com/ryanbenac33/koop-output-table) - 2023: Allows option to output Koop data translations to a searchable HTML table.
+
 [Panama Canal Infographic](https://github.com/MVR-GIS/Panama_Infographic) - 2023: Given a large dataset of salinity measurements taken during a full lockage at Agua Clara Lock in the Panama Canal, we utilized several R packages to read through the data and create an SVG based data-driven CSS keyframe animation.
 
 
