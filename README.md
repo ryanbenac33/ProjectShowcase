@@ -28,5 +28,7 @@ This page contains examples and results from various projects I have worked on. 
 
 [Panama Canal Infographic](https://github.com/MVR-GIS/Panama_Infographic) - 2023: Given a large dataset of salinity measurements taken during a full lockage at Agua Clara Lock in the Panama Canal, we utilized several R packages to read through the data and create an SVG based data-driven CSS keyframe animation.
 
+# Related Project Products
+[USACE MVR Approved Riprap Sources Web Map](https://www.mvr.usace.army.mil/About/Offices/Engineering-and-Construction/Geotechnical-Branch/Quarries/) - 2023: Created an online web map that shows USACE MVR approved quarries on a map, and configured the map to have useful tools which made searching for information exponentially easier.
 
 Contact: benacryan1+github@gmail.com
